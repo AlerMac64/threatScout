@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Exports
+iocs.json
+iocs.csv
+
+# Python
+__pycache__/
+*.pyc
